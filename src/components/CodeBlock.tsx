@@ -114,5 +114,4 @@ export default function CodeBlock({ code, filename, language = 'json', delay = 0
       </div>
     </ScrollReveal>
   );
-        }
-      
+}
